@@ -1,6 +1,6 @@
 ﻿using HackerRank.Solution;
 
 
-Solution.billDivision([3, 10, 2, 9], 1, 12);
+Console.WriteLine(Solution.salesByMatch(9, [10, 20, 20, 10, 10, 30, 50, 10, 20]));
 
 Console.ReadLine();
