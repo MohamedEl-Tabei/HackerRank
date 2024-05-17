@@ -1,6 +1,6 @@
 ﻿using HackerRank.Solution;
 
 
-Console.WriteLine(Solution.drawingBook(5,4));
+Console.WriteLine(Solution.countingValleys(8, "UDDDUDUU"));
 
 Console.ReadLine();
