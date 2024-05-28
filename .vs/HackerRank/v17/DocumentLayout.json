@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Mohamed\\2\\HackerRank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C1211A8-FD07-4E54-B548-123E1AA612BE}|HackerRank\\HackerRank.csproj|d:\\mohamed\\2\\hackerrank\\hackerrank\\solution\\electronicsshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1211A8-FD07-4E54-B548-123E1AA612BE}|HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\solution\\electronicsshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C1211A8-FD07-4E54-B548-123E1AA612BE}|HackerRank\\HackerRank.csproj|d:\\mohamed\\2\\hackerrank\\hackerrank\\solution\\catandmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1211A8-FD07-4E54-B548-123E1AA612BE}|HackerRank\\HackerRank.csproj|solutionrelative:hackerrank\\solution\\catandmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C1211A8-FD07-4E54-B548-123E1AA612BE}|HackerRank\\HackerRank.csproj|d:\\mohamed\\2\\hackerrank\\hackerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "electronicsShop.cs",
-              "DocumentMoniker": "D:\\Mohamed\\2\\HackerRank\\HackerRank\\Solution\\electronicsShop.cs",
-              "RelativeDocumentMoniker": "HackerRank\\Solution\\electronicsShop.cs",
-              "ToolTip": "D:\\Mohamed\\2\\HackerRank\\HackerRank\\Solution\\electronicsShop.cs",
-              "RelativeToolTip": "HackerRank\\Solution\\electronicsShop.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBEAAAAfAAAA",
+              "Title": "catAndMouse.cs",
+              "DocumentMoniker": "D:\\Mohamed\\2\\HackerRank\\HackerRank\\Solution\\catAndMouse.cs",
+              "RelativeDocumentMoniker": "HackerRank\\Solution\\catAndMouse.cs",
+              "ToolTip": "D:\\Mohamed\\2\\HackerRank\\HackerRank\\Solution\\catAndMouse.cs",
+              "RelativeToolTip": "HackerRank\\Solution\\catAndMouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T15:12:48.304Z",
+              "WhenOpened": "2024-05-28T19:33:55.658Z",
               "EditorCaption": ""
             },
             {
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "HackerRank\\Program.cs",
               "ToolTip": "D:\\Mohamed\\2\\HackerRank\\HackerRank\\Program.cs",
               "RelativeToolTip": "HackerRank\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T14:42:05.932Z",
               "EditorCaption": ""

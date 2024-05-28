@@ -1,6 +1,6 @@
 ﻿using HackerRank.Solution;
 
 
-Console.WriteLine(Solution.electronicsShop([3, 1], [5, 2, 8], 10));
+Console.WriteLine(Solution.catAndMouse(21,95,58));
 
 Console.ReadLine();
