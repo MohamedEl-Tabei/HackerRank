@@ -1,6 +1,6 @@
 ﻿using HackerRank.Solution;
 
 
-Console.WriteLine(Solution.catAndMouse(21,95,58));
+Console.WriteLine(Solution.pickingNumbers([1, 2, 2, 3, 1, 2]));
 
 Console.ReadLine();
